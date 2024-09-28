@@ -45,6 +45,6 @@ is retained from previous attempts).
 rows
 
 How to view the game:
-(a) Set the display width to 120 and the height to 220.
-(b) Set the units for width is 10 and for height it is 8.
-(c) Run the code. Press Q to end the game at any point and press R to reset the game.
+1) Set the display width to 120 and the height to 220.
+2) Set the units for width is 10 and for height it is 8.
+3) Run the code. Press Q to end the game at any point and press R to reset the game.
